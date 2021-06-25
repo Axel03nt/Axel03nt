@@ -1,19 +1,22 @@
-### Hola, soy Axel Tolentino / Здравствуйте я Аксель Толентино 👨🏻‍💻
+<h1 align = "center">Hola, soy Axel Tolentino / Здравствуйте я Аксель Толентино 👨🏻‍💻 </h1>
 
-Estudio mi último trimestre de ingeniería electrónica en la UAM-Iztapalapa.
-Orienté mi carrera a los sistemas de computación y las telecomunicaciones.
-Estudio Ruso.
+<p align="center">Estudio mi último trimestre de ingeniería electrónica en la UAM-Iztapalapa.</p>
+<p align="center">Desarrollador de software en proceso</p>
+<p align="center">Estudio Ruso</p>
+
 ## 📱💻🇲🇽🇷🇺🎍🐈🐈
 
 ## Mi perfil profesional se encuentra en el siguiente enlace:
 
-* [LinkedIn](www.linkedin.com/in/axel-tolentino-234811201)
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/axel-tolentino-234811201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/axel-tolentino-234811201" height="30" width="40" />LinkedIn</a>
+</p>
+
 
 Me gusta hacer videos contributivos como estos:
 * [OpenBTS](https://www.youtube.com/watch?v=Otnt1iBC6C0)
 
 
-<h1 align="center">Hi 👋, I'm Axel Tolentino</h1>
 <h3 align="center">Software Developer Jr in proccess!</h3>
 
 
