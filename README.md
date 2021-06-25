@@ -1,8 +1,10 @@
 <h1 align = "center">Hola, soy Axel Tolentino / Здравствуйте я Аксель Толентино 👨🏻‍💻 </h1>
-<h3 align="center">Desarrollador de Software en progreso / Pазработка программного обеспечения в процессе</h3>
-<p align="center">Estudio mi último trimestre de ingeniería electrónica en la UAM-Iztapalapa.</p>
-<p align="center">Desarrollador de software en proceso</p>
+<h3 align="center">Desarrollador de Software en proceso / Pазработка программного обеспечения в процессе</h3>
+<p align="center">Estudio mi último trimestre de ingeniería electrónica en la UAM-Iztapalapa</p>
+<p align="center">Me gusta controlar interfaces físicas por medio de software</p>
 <p align="center">Estudio Ruso</p>
+
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel03nt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 ## 📱💻🇲🇽🇷🇺🎍🐈🐈
 <p align="center">Me gusta la tecnología, las plantas y los bichitos</p>
@@ -15,7 +17,7 @@
 </p>
 
 
-Me gusta hacer videos contributivos como estos:
+También me gusta hacer videos contributivos como estos:
 * [OpenBTS](https://www.youtube.com/watch?v=Otnt1iBC6C0)
 
 
@@ -41,7 +43,7 @@ Me gusta hacer videos contributivos como estos:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Axel03nt&show_icons=true&theme=shades-of-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel03nt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=Axel03nt)
 
 
