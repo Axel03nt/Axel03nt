@@ -5,9 +5,12 @@ Orienté mi carrera a los sistemas de computación y las telecomunicaciones.
 Estudio Ruso.
 📱💻🇲🇽🇷🇺🎍🐈🐈
 
+Mi perfil profesional se encuentra en el siguiente enlace:
 
+* [LinkedIn](www.linkedin.com/in/axel-tolentino-234811201)
 
-[LinkedIn](www.linkedin.com/in/axel-tolentino-234811201)
+Me gusta hacer videos contributivos como estos:
+* [OpenBTS](https://www.youtube.com/watch?v=Otnt1iBC6C0)
 
 
 
