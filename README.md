@@ -5,7 +5,7 @@
 <p align="center">Estudio Ruso</p>
 
 ## 📱💻🇲🇽🇷🇺🎍🐈🐈
-<p>Me gusta la tecnología, las plantas y los bichitos</p>
+<p align="center">Me gusta la tecnología, las plantas y los bichitos</p>
 
 
 ## Mi perfil profesional se encuentra en el siguiente enlace:
@@ -20,8 +20,9 @@ Me gusta hacer videos contributivos como estos:
 
 
 
-<h3 align="center">Software Developer Jr in process!</h3>
+<h3 align="center">Desarrollador de Software en progreso / Pазработка программного обеспечения в процессе</h3>
 ## Algunas de mis skills
+
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -34,8 +35,7 @@ Me gusta hacer videos contributivos como estos:
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
-</p>
+</p><br>
 
 
 
