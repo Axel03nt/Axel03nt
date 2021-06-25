@@ -1,6 +1,6 @@
 ### Hola, soy Axel Tolentino / Здравствуйте я Аксель Толентино 👨🏻‍💻
 
-Estudio mi último año de ingeniería electrónica en la UAM-Iztapalapa.
+Estudio mi último trimestre de ingeniería electrónica en la UAM-Iztapalapa.
 Orienté mi carrera a los sistemas de computación y las telecomunicaciones.
 Estudio Ruso.
 📱💻🇲🇽🇷🇺🎍🐈🐈
@@ -11,6 +11,8 @@ Mi perfil profesional se encuentra en el siguiente enlace:
 
 Me gusta hacer videos contributivos como estos:
 * [OpenBTS](https://www.youtube.com/watch?v=Otnt1iBC6C0)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png"></code>
 
 
 
