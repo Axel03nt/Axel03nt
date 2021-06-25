@@ -1,5 +1,5 @@
 <h1 align = "center">Hola, soy Axel Tolentino / Здравствуйте я Аксель Толентино 👨🏻‍💻 </h1>
-
+<h3 align="center">Desarrollador de Software en progreso / Pазработка программного обеспечения в процессе</h3>
 <p align="center">Estudio mi último trimestre de ingeniería electrónica en la UAM-Iztapalapa.</p>
 <p align="center">Desarrollador de software en proceso</p>
 <p align="center">Estudio Ruso</p>
@@ -20,8 +20,9 @@ Me gusta hacer videos contributivos como estos:
 
 
 
-<h3 align="center">Desarrollador de Software en progreso / Pазработка программного обеспечения в процессе</h3>
-## Algunas de mis skills
+
+
+## Algunas de mis skills:
 
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
