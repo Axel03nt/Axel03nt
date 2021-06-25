@@ -7,7 +7,7 @@ Estudio Ruso.
 
 
 
-{LinkedIn}(www.linkedin.com/in/axel-tolentino-234811201)
+[LinkedIn](www.linkedin.com/in/axel-tolentino-234811201)
 
 
 
