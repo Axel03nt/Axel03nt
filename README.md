@@ -4,7 +4,7 @@
 <p align="center">Me gusta controlar interfaces físicas por medio de software</p>
 <p align="center">Estudio Ruso</p>
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel03nt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel03nt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 ## 📱💻🇲🇽🇷🇺🎍🐈🐈
 <p align="center">Me gusta la tecnología, las plantas y los bichitos</p>
